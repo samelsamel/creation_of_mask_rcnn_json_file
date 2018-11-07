@@ -14,3 +14,5 @@ While in it install these packages:
 * pycocotools : pip install pycocotools
 
 After setting up the enviorenement just clone the repo and change the image, mask path and chage the size of your images. 
+
+PS: You can first try to test it on balloon dataset
